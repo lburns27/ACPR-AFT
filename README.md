@@ -32,7 +32,7 @@ This repository contains R code for the various algorithms and functions involve
     * effectGenes: number of significant genes
   * Output option: Specificity, Sensitivity, Youden, AUC & AUC standard deviation for the CPR coefficients and VIP 
 
-* **Simulation Schemes**: Contains R code for simulating data
+* **Simulations**: Contains R code for simulating data
   * Scheme 1: Univariate aproach; genes linked to survival one at a time
   * Scheme 2: Multivariate approach; incorporates correlation between features
   * For both schemes, there are options to simulate from the following models: LN, LL1, LL2, W1, W2
