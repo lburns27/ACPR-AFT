@@ -40,7 +40,7 @@ This repository contains R code for the various algorithms and functions involve
 # Copyright & Citations
 Copyright © Lauren Spirko-Burns and Karthik Devarajan 
 
-Spirko-Burns, L., Devarajan, K. Supervised dimension reduction for large-scale “omics" data with censored survival outcomes under possible non-proportional hazards. Under review. bioRxiv 586529; doi: https://doi.org/10.1101/586529. COBRA pre-print series, Article 119 (March 2019). http://biostats.bepress.com/cobra/art119.
+Spirko-Burns, L., Devarajan, K. Supervised dimension reduction for large-scale “omics" data with censored survival outcomes under possible non-proportional hazards.  bioRxiv https://www.biorxiv.org/content/10.1101/586529v2; COBRA pre-print series, Article 119 (March 2019), http://biostats.bepress.com/cobra/art119. IEEE/ACM Transactions on Computational Biology and Bioinformatics, 10.1109/TCBB.2020.2965934, In Press.
 
 Spirko, L. (2017). Variable Selection and Supervised Dimension Reduction for Large-Scale Genomic Data with Censored Survival Outcomes. Ph.D. Dissertation. Department of Statistical Science, Temple University, Philadelphia.
 
